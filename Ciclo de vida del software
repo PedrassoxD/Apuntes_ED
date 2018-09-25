@@ -1,1 +1,49 @@
 # Ciclo de vida del Software
+#### 1. Define "Ciclo de vida del sofware". https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
+Es una estructura aplicada al desarrollo de un producto de software.
+
+#### 2. Nombra las fases principales del desarrollo de software y explica brevemente que de hace en cada una de ellas. https://sistemasvd.wordpress.com/2008/07/05/fases-del-proceso-de-desarrollo-del-software/
+* Análisis de requisitos.- 
+Extraer los requisitos de un producto de sopftware es la primera etapa para crearlo, se requiere de habilidad y experiencia en la ingenireía de software para reconocer requisitos incompletos.
+* Diseño y arquitectura.-
+Se refiere a determinar como funcionará de forma general sin entrar en detalles. Consiste en incorporar consideraciones de la implementación tecnológica, como el hardware, la red, etc.
+* Programación.-
+Reducir un diseño a código puede ser la parte más obvia del trabajo de ingeniería de software, pero no es necesariamente la porción más larga. La complejidad y la duración de esta etapa está intimamente ligada al o a los lenguajes de programación utilizados.
+* Pruebas.-
+Consiste en comprobar que el software realice correctamente las tareas indicadas en la especificación. Una técnica de prueba es probar por separado cada módulo del software.
+* Documentación.-
+Todo lo concerniente a la documentación del propio desarrollo del software y de la gestión del proyecto, pasando por modelaciones (UML), diagramas, pruebas, manuales de usuario, manuales técnicos, etc.
+* Mantenimiento.- 
+Mantener y mejorar el software para enfrentar errores descubiertos y nuevos requisitos. Esto puede llevar más tiempo incluso que el desarrollo inicial del software.
+
+#### 3. Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software. https://openclassrooms.com/en/courses/4309151-gestiona-tu-proyecto-de-desarrollo/4538221-en-que-consiste-el-modelo-en-cascada
+El modelo en cascada es un proceso de desarrollo secuencial, en el que el desarrollo de software se concibe como  un conjunto de etapas que  se ejecutan una tras otra. Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra, y siguiendo un flujo de ejecución de arriba hacia abajo, como una cascada.
+![Fases de desarrollo de software](images/fasesDesarrollo.png) 
+ 
+#### 4. Ventajas e inconvenientes del modelo en cascada. https://sites.google.com/site/proyectoadpmodelosdedesarrollo/home/modelo-en-cascada/modelo-en-cascada-ventajas-y-desventajas
+* Ventajas.-
+
+No hace falta mencionar, es un modelo lineal y, por supuesto, los modelos lineales son las más simples a ser implementadas.
+
+La cantidad de recursos necesarios para implementar este modelo es mínimo.
+
+Una gran ventaja del modelo de cascada es que la documentación se produce en cada etapa del desarrollo del modelo de cascada. Esto hace que la comprensión del producto a diseñar haga el procedimiento más sencillo.
+
+Después de cada etapa importante de la codificación de software, las pruebas se realizan para comprobar el correcto funcionamiento del código.
+
+* Desventajas.-
+
+Irónicamente, la mayor desventaja del modelo de cascada es una de sus mayores ventajas. No se puede volver atrás, si la fase de diseño ha ido mal, las cosas pueden ser muy complicadas en la fase de ejecución.
+
+Muchas veces, sucede que el cliente no es muy claro de lo que exactamente quiere de el software. Cualquier cambio que se menciona en el medio puede causar mucha confusión.
+
+Los pequeños cambios o errores que surgen en el software completo pueden causar muchos problema.
+
+La mayor desventaja del modelo de cascada es que hasta la etapa final del ciclo de desarrollo del software no está en las manos del cliente. Por lo tanto, es difícil en condiciones de mencionar si lo que se ha diseñado es exactamente lo que había pedido.
+
+#### 5. ¿Qué se entiende por verificación? ¿Y por validación?
+
+
+
+
+
