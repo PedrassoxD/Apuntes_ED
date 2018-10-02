@@ -41,8 +41,27 @@ Los pequeños cambios o errores que surgen en el software completo pueden causar
 
 La mayor desventaja del modelo de cascada es que hasta la etapa final del ciclo de desarrollo del software no está en las manos del cliente. Por lo tanto, es difícil en condiciones de mencionar si lo que se ha diseñado es exactamente lo que había pedido.
 
-#### 5. ¿Qué se entiende por verificación? ¿Y por validación?
+#### 5. ¿Qué se entiende por verificación? ¿Y por validación? https://www.ctr.unican.es/asignaturas/Ingenieria_Software_4_F/Doc/M7_09_VerificacionValidacion-2011.pdf
+En el proceso de verificación comprende comprobar que el software está de acuerdo  con  su  especificación.  Se  comprueba  que  el  sistema  cumple  los requerimientos funcionales y no funcionales que se le han especificado.
 
+En el proceso de validación es más general. Se debe asegurar que el software cumple  las  expectativas  del  cliente.  Va  más  allá  de  comprobar  si  el sistema  está  acorde  con  su  especificación,  para  probar  que  el  software hace lo que el usuario espera a diferencia de lo que se ha especificado.
+
+#### 6. Explica como funciona el modelo de desarrollo mediante creación de prototipos. https://www.slideshare.net/myjuankiz1/desarrollo-de-prototipos-5662958
+El desarrollo de prototipos es una serie de aplicaciones que se llevan de forma ordenada, sin importar la herramiente, este desarrollo se constituye por una serie de etapas:
+ ➝ Identificación de requerimientos
+ ➝ Desarrollo de un modelo que funcione
+ ➝ Utilizar el prototipo
+ ➝ Revisión del prototipo
+ ➝ Repetición del proceso las veces que sea necesario
+ 
+#### 7. Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos. http://modeloespiral.blogspot.com/
+En el modelo espiral, el software se desarrolla en una serie de versiones incrementales. Durante las primeras iteraciones la versión incremental podría ser un modelo en papel o un prototipo, durante las últimas iteraciones se producen versiones cada vez más completas del sistema diseñado.
+
+El modelo en espiral se divide en un número de actividades de marco de trabajo, también llamadas REGIONES DE TAREAS , Cada una de las regiones están compuestas por un conjunto de tareas del trabajo llamado CONJUNTO DE TAREAS que se adaptan a las características del proyecto que va a emprenderse, en todos los casos se aplican actividades de protección.
+
+![Modelo de espiral](/home/estudiante/Apuntes_ED/images/imagen_modelo_espiral.png)
+
+#### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
 
 
 
