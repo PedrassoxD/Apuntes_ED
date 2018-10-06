@@ -59,9 +59,165 @@ En el modelo espiral, el software se desarrolla en una serie de versiones increm
 
 El modelo en espiral se divide en un número de actividades de marco de trabajo, también llamadas REGIONES DE TAREAS , Cada una de las regiones están compuestas por un conjunto de tareas del trabajo llamado CONJUNTO DE TAREAS que se adaptan a las características del proyecto que va a emprenderse, en todos los casos se aplican actividades de protección.
 
-![Modelo de espiral](/home/estudiante/Apuntes_ED/images/imagen_modelo_espiral.png)
+![Modelo de espiral](/home/pedro/Apuntes_ED/images/imagen_modelo_espiral.png)
 
-#### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil?
+#### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil? https://es.wikipedia.org/wiki/Manifiesto_%C3%A1gil
+Valores del Manifiesto Ágil:
+    • Valorar más a los individuos y sus interacciones que a los procesos y las herramientas
+    • Valorar más el software funcionando que la documentación exhaustiva
+    • Valorar más la colaboración con el cliente que la negociación contractual
+    • Valorar más la respuesta ante el cambio que seguir un plan
+
+#### 9. ¿Qué es una historia de usuario? Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Historias_de_usuario
+Una historia de usuario es una representación de un requisito escrito en una o dos frases utilizando el lenguaje común del usuario. Las historias de usuario son utilizadas en las metodologías de desarrollo ágiles para la especificación de requisitos (acompañadas de las discusiones con los usuarios y las pruebas de validación). Cada historia de usuario debe ser limitada, ésta debería poderse escribir sobre una nota adhesiva pequeña. Dentro de la metodología XP las historias de usuario deben ser escritas por los usuarios.
+
+#### 10. Haz un resumen sobre que se entiende por Lean software y qué principios lo rigen. Consulta el siguiente enlace: https://es.wikipedia.org/wiki/Lean_software_development
+La metodología de desarrollo de software lean es una traducción de los principios y las prácticas de la forma de producir lean, hacia el área del desarrollo de software. Inicialmente, originado en el Sistema de Producción de Toyota y ahora, apoyado por una corriente que está surgiendo desde la comunidad Ágil. Este método ofrece todo un marco teórico sólido y basado en la experiencia, para las prácticas ágiles de gestión.
+
+Los principios que lo rigen son:
+    • Eliminar los desperdicios
+    •  Amplificar el aprendizaje
+    • Decidir lo más tarde posible
+    •  Entregar tan rápido como sea posible
+    •  Capacitar al equipo
+    •  Construir integridad intrínseca
+    •  Véase todo el conjunto
+
+#### 11. KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban. Puedes consultar los siguientes enlaces:
+https://leankit.com/learn/kanban/kanban-board/
+https://leankit.com/product-demo/
+http://www.javiergarzas.com/2012/08/herramienta-kanban.html
+
+Ventajas:
+
+ • No necesitas poner pos-it, aunque suene raro, los pos-it contienen información de tareas que tenemos que realizar y estos pueden despegarse, perderse o incluso la señora de la limpieza llevarse mas de uno.
+
+• Puedes manejar históricos, ¿cómo guardamos la situación en la que se encontraba el tablero el mes pasado? ¿Le hacemos una foto? Para ello utilizamos esta herramienta Kanban.
+
+• No te queda otra si tu equipo está distribuido. Aunque también choque con la teoría ágil purista, hay veces que los equipos tienen que estar distribuidos, es decir, no todos los miembros del equipo están en la misma sede. Y, obviamente, en esta situación un tablero Kanban físico no funciona. Y es necesario usar una herramienta Kanban.
+
+Desventajas:
+
+• Visibilidad y comunicación. Quizás la principal desventaja de usar una herramienta Kanban es que no es lo mismo que un tablero que todo el mundo ve, y tiene que ver por fuerza al pasar delante de él.
+
+• Los problemas típicos de las herramientas. Costes, si no usamos algo libre, formación, mantenimiento, etc., son consabidos problemas de usar herramientas, y por ello, también de usar una herramienta Kanban.
+
+#### 12. KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace:
+http://www.itmplatform.com/es/blog/las-diferencias-entre-kanban-y-scrum/
+https://es.atlassian.com/agile/kanban
+
+Kanban es un marco de trabajo muy popular a la hora de implementar un desarrollo de software ágil. Requiere una comunicación en tiempo real sobre la capacidad y una transparencia del trabajo total. Los elementos de trabajo se representan visualmente en un tablero kanban, lo que permite a los miembros del equipo ver el estado de cada uno en cualquier momento.
+
+Principal diferencia 
+
+• El flujo de trabajo de Srum se centra en intervalos de trabajo, en los que las tareas deben progresar de manera constante.
+
+• Kanban concibe el trabajo en base a ítems individuales, que pueden agregarse o eliminarse de cada fase del proyecto, según las necesidades de cada momento. Precisamente por esto, y para evitar desfases entre los diversos miembros del equipo, requiere una monitorización de todo el proceso.
+
+En consecuencia, el esquema organizativo Scrum puede encajar mucho mejor en proyectos de equipos que se mantienen constantes a lo largo de toda su ejecución, mientras que Kanban encajará mucho mejor en un proceso de alto nivel de trabajo, llevado a cabo por un equipo maduro y capaz de evolucionar según las necesidades del momento.
+
+#### 13.  SCRUM. Explica como funciona Scrum. Consulta los siguientes enlaces:
+https://proyectosagiles.org/que-es-scrum/
+https://proyectosagiles.org/como-funciona-scrum/
+
+En Scrum un proyecto se ejecuta en ciclos temporales cortos y de duración fija (iteraciones que normalmente son de 2 semanas, aunque en algunos equipos son de 3 y hasta 4 semanas, límite máximo de feedback de producto real y reflexión). Cada iteración tiene que proporcionar un resultado completo, un incremento de producto final que sea susceptible de ser entregado con el mínimo esfuerzo al cliente cuando lo solicite.
+
+#### 14. SCRUM. Define los siguientes términos:
+https://proyectosagiles.org/lista-tareas-iteracion-sprint-backlog/
+https://proyectosagiles.org/lista-requisitos-priorizada-product-backlog/
+
+• Product backlog: Lista de objetivos/Requisitos priorizada,  representa la visión y expectativas del cliente respecto a los objetivos y entregas del producto o proyecto.
+
+• Sprint backlog: Lista de tareas que el equipo elabora en la reunión de planificación de la iteración (Sprint planning) como plan para completar los objetivos/requisitos seleccionados para la iteración y que se compromete a demostrar alcliente al finalizar la iteración, en forma de incremento de producto preparado para ser entregado.
+
+#### 15. SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
+http://www.javiergarzas.com/2014/03/quien-es-el-jefe-de-proyecto-en-un-proyecto-agil-scrum.html
+https://www.beagilemyfriend.com/diccionario-scrum/
+
+• Jefe de proyecto: Se dividen en dos “Product Owner” y “Scrum Master”
+
+• Cliente: Usuario
+
+• Equipo de desarrollo: Equipo
+
+#### 16. SCRUM. Haz un resumen de los requisitos para poder utilizar Scrum. Consulta el siguiente enlace:
+https://proyectosagiles.org/requisitos-de-scrum/
+
+• Cultura de empresa basada en trabajo en equipo, delegación, creatividad y mejora continua.
+
+• Compromiso del cliente, Scrum exige del cliente una alta implicación y una dedicación regular
+
+• Compromiso de la Dirección, La Dirección debe estar comprometida y apoyar el uso de Scrum
+
+• Compromiso del equipo, Scrum se basa en el compromiso conjunto y la colaboración entre los miembros del equipo. La transparencia entre todos es fundamental para poder inspeccionar la situación real del proyecto y así poder hacer las mejores adaptaciones que permitan conseguir el objetivo común.
+
+• Relación entre proveedor y cliente
+
+• Facilidad para realizar cambios en el proyecto, para poder utilizar Scrum se debe poder ir incorporando requisitos de manera incremental en el producto del proyecto y realizar cambios de forma controlada sin un coste prohibitivo para el cliente.
+
+• Tamaño del equipo, el tamaño de un equipo está entre 5 y 9 personas. Por debajo de 5 personas cualquier imprevisto o interrupción sobre un miembro del equipo compromete seriamente el compromiso que han adquirido y, por tanto, el resultado que se va a entregar al cliente al finalizar la iteración. Por encima de 9 personas, la comunicación y colaboración entre todos los miembros se hace más difícil y se forma subgrupos.
+
+• Equipo trabajando en un mismo espacio común, todos los miembros del equipo trabajan en la misma localización física, para poder maximizar la comunicación entre ellos mediante conversaciones cara a cara, diagramas en pizarras blancas, tarjetas en el tablón de tareas, etc.
+
+• Dedicación del equipo a tiempo completo, Los miembros del equipo dedicarse al proyecto a tiempo completo para que de esta manera:
+	- Evitar dañar su productividad
+	- Facilitar la gestión de recursos humanos de la organización.
+
+• Estabilidad del equipo, El equipo debe ser estable durante el proyecto, sus miembros deben cambiar lo mínimo posible, para poder aprovechar el esfuerzo que les ha costado construir sus relaciones interpersonales, engranarse y establecer su organización del trabajo.
+
+#### 17. XP. Explica los 5 valores de la Programación Extrema.
+http://www.pmoinformatica.com/2012/11/los-5-valores-de-la-programacion.html
+
+#### Comunicación
+En lo referente a la comunicación establece: “Todos son parte del equipo y nos comunicamos cara a cara todos los días. Trabajamos juntos en todo, desde los requerimientos hasta la programación. En equipo crearemos la mejor solución al problema.”
+
+#### Simplicidad
+La simplicidad implica que: “Desarrollaremos lo que sea solicitado y necesario, pero no más que eso. De esa forma, se maximiza el valor de la inversión realizada. Nos dirigiremos a nuestro objetivo a pasos simples y pequeños, mitigando las fallas a medida que ocurran. Crearemos algo de lo cual podamos sentirnos orgullos y que pueda mantenerse en el largo plazo a costos razonables.”
+
+#### Retroalimentación (Feedback)
+Según extremeprogramming el valor de la retroalimentación establece: “Nos tomaremos seriamente los compromisos con el usuario establecidos en todas las iteraciones, entregando software en funcionamiento en cada una. Mostraremos al usuario nuestro software frecuentemente y de forma temprana, escuchando cuidadosamente sus observaciones y realizando los cambios que sean necesarios. Adaptaremos nuestros procesos al proyecto y no al contrario”.
+
+#### Coraje
+Establece: “Diremos la verdad en nuestros avances y estimados, no documentaremos excusas para el fracaso, pues planificamos para tener éxito. No tendremos miedo a nada pues sabemos que nadie trabaja solo. Nos adaptaremos a los cambios cuando sea que estos ocurran.”
+
+#### Respeto
+El valor del respeto en XP establece: “Todos en el equipo dan y reciben el respeto que merecen como integrantes del equipo y los aportes de cada integrante son valorados por todos. Todos contribuyen, así sea simplemente con entusiasmo. Los desarrolladores respetan la experticia de los clientes y viceversa. La Gerencia respeta el derecho del equipo de asumir responsabilidad y tener autoridad sobre su trabajo”.
+
+#### 18.  XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas. Puedes consultar el siguiente enlace:
+http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
