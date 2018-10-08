@@ -1,8 +1,8 @@
 # Ciclo de vida del Software
-#### 1. Define "Ciclo de vida del sofware". https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
+#### 1. Define "Ciclo de vida del sofware". 
 Es una estructura aplicada al desarrollo de un producto de software.
 
-#### 2. Nombra las fases principales del desarrollo de software y explica brevemente que de hace en cada una de ellas. https://sistemasvd.wordpress.com/2008/07/05/fases-del-proceso-de-desarrollo-del-software/
+#### 2. Nombra las fases principales del desarrollo de software y explica brevemente que de hace en cada una de ellas. 
 * Análisis de requisitos.- 
 Extraer los requisitos de un producto de sopftware es la primera etapa para crearlo, se requiere de habilidad y experiencia en la ingenireía de software para reconocer requisitos incompletos.
 * Diseño y arquitectura.-
@@ -16,11 +16,11 @@ Todo lo concerniente a la documentación del propio desarrollo del software y de
 * Mantenimiento.- 
 Mantener y mejorar el software para enfrentar errores descubiertos y nuevos requisitos. Esto puede llevar más tiempo incluso que el desarrollo inicial del software.
 
-#### 3. Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software. https://openclassrooms.com/en/courses/4309151-gestiona-tu-proyecto-de-desarrollo/4538221-en-que-consiste-el-modelo-en-cascada
+#### 3. Explica brevemente en qué consiste el modelo en cascada cuando hablamos de desarrollo de software. 
 El modelo en cascada es un proceso de desarrollo secuencial, en el que el desarrollo de software se concibe como  un conjunto de etapas que  se ejecutan una tras otra. Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra, y siguiendo un flujo de ejecución de arriba hacia abajo, como una cascada.
 ![Fases de desarrollo de software](images/fasesDesarrollo.png) 
  
-#### 4. Ventajas e inconvenientes del modelo en cascada. https://sites.google.com/site/proyectoadpmodelosdedesarrollo/home/modelo-en-cascada/modelo-en-cascada-ventajas-y-desventajas
+#### 4. Ventajas e inconvenientes del modelo en cascada. 
 * Ventajas.-
 
 No hace falta mencionar, es un modelo lineal y, por supuesto, los modelos lineales son las más simples a ser implementadas.
@@ -41,12 +41,12 @@ Los pequeños cambios o errores que surgen en el software completo pueden causar
 
 La mayor desventaja del modelo de cascada es que hasta la etapa final del ciclo de desarrollo del software no está en las manos del cliente. Por lo tanto, es difícil en condiciones de mencionar si lo que se ha diseñado es exactamente lo que había pedido.
 
-#### 5. ¿Qué se entiende por verificación? ¿Y por validación? https://www.ctr.unican.es/asignaturas/Ingenieria_Software_4_F/Doc/M7_09_VerificacionValidacion-2011.pdf
+#### 5. ¿Qué se entiende por verificación? ¿Y por validación? 
 En el proceso de verificación comprende comprobar que el software está de acuerdo  con  su  especificación.  Se  comprueba  que  el  sistema  cumple  los requerimientos funcionales y no funcionales que se le han especificado.
 
 En el proceso de validación es más general. Se debe asegurar que el software cumple  las  expectativas  del  cliente.  Va  más  allá  de  comprobar  si  el sistema  está  acorde  con  su  especificación,  para  probar  que  el  software hace lo que el usuario espera a diferencia de lo que se ha especificado.
 
-#### 6. Explica como funciona el modelo de desarrollo mediante creación de prototipos. https://www.slideshare.net/myjuankiz1/desarrollo-de-prototipos-5662958
+#### 6. Explica como funciona el modelo de desarrollo mediante creación de prototipos. 
 El desarrollo de prototipos es una serie de aplicaciones que se llevan de forma ordenada, sin importar la herramiente, este desarrollo se constituye por una serie de etapas:
  ➝ Identificación de requerimientos
  ➝ Desarrollo de un modelo que funcione
@@ -54,14 +54,14 @@ El desarrollo de prototipos es una serie de aplicaciones que se llevan de forma 
  ➝ Revisión del prototipo
  ➝ Repetición del proceso las veces que sea necesario
  
-#### 7. Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos. http://modeloespiral.blogspot.com/
+#### 7. Explica como funciona el modelo espiral cuando se aplica al desarrollo orientado a objetos. 
 En el modelo espiral, el software se desarrolla en una serie de versiones incrementales. Durante las primeras iteraciones la versión incremental podría ser un modelo en papel o un prototipo, durante las últimas iteraciones se producen versiones cada vez más completas del sistema diseñado.
 
 El modelo en espiral se divide en un número de actividades de marco de trabajo, también llamadas REGIONES DE TAREAS , Cada una de las regiones están compuestas por un conjunto de tareas del trabajo llamado CONJUNTO DE TAREAS que se adaptan a las características del proyecto que va a emprenderse, en todos los casos se aplican actividades de protección.
 
 ![Modelo de espiral](/home/pedro/Apuntes_ED/images/imagen_modelo_espiral.png)
 
-#### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil? https://es.wikipedia.org/wiki/Manifiesto_%C3%A1gil
+#### 8. ¿Qué cuatro principios rigen el desarrollo ágil expresados en el Manifiesto Ágil? 
 Valores del Manifiesto Ágil:
     • Valorar más a los individuos y sus interacciones que a los procesos y las herramientas
     • Valorar más el software funcionando que la documentación exhaustiva
@@ -86,7 +86,6 @@ Los principios que lo rigen son:
 #### 11. KANBAN. Estudia las ventajas e inconvenientes de tener una pizarra web digital para la metodología Kanban. Puedes consultar los siguientes enlaces:
 https://leankit.com/learn/kanban/kanban-board/
 https://leankit.com/product-demo/
-http://www.javiergarzas.com/2012/08/herramienta-kanban.html
 
 Ventajas:
 
@@ -104,7 +103,6 @@ Desventajas:
 
 #### 12. KANBAN. Haz un resumen de la metodología Kanban e indica sus diferencias frente a SCRUM. Puedes consultar el siguiente enlace:
 http://www.itmplatform.com/es/blog/las-diferencias-entre-kanban-y-scrum/
-https://es.atlassian.com/agile/kanban
 
 Kanban es un marco de trabajo muy popular a la hora de implementar un desarrollo de software ágil. Requiere una comunicación en tiempo real sobre la capacidad y una transparencia del trabajo total. Los elementos de trabajo se representan visualmente en un tablero kanban, lo que permite a los miembros del equipo ver el estado de cada uno en cualquier momento.
 
@@ -131,8 +129,6 @@ https://proyectosagiles.org/lista-requisitos-priorizada-product-backlog/
 • Sprint backlog: Lista de tareas que el equipo elabora en la reunión de planificación de la iteración (Sprint planning) como plan para completar los objetivos/requisitos seleccionados para la iteración y que se compromete a demostrar alcliente al finalizar la iteración, en forma de incremento de producto preparado para ser entregado.
 
 #### 15. SCRUM. En la terminología Scrum qué terminos se utilizan como sinónimo de:
-http://www.javiergarzas.com/2014/03/quien-es-el-jefe-de-proyecto-en-un-proyecto-agil-scrum.html
-https://www.beagilemyfriend.com/diccionario-scrum/
 
 • Jefe de proyecto: Se dividen en dos “Product Owner” y “Scrum Master”
 
@@ -166,7 +162,6 @@ https://proyectosagiles.org/requisitos-de-scrum/
 • Estabilidad del equipo, El equipo debe ser estable durante el proyecto, sus miembros deben cambiar lo mínimo posible, para poder aprovechar el esfuerzo que les ha costado construir sus relaciones interpersonales, engranarse y establecer su organización del trabajo.
 
 #### 17. XP. Explica los 5 valores de la Programación Extrema.
-http://www.pmoinformatica.com/2012/11/los-5-valores-de-la-programacion.html
 
 #### Comunicación
 En lo referente a la comunicación establece: “Todos son parte del equipo y nos comunicamos cara a cara todos los días. Trabajamos juntos en todo, desde los requerimientos hasta la programación. En equipo crearemos la mejor solución al problema.”
@@ -186,6 +181,11 @@ El valor del respeto en XP establece: “Todos en el equipo dan y reciben el res
 #### 18.  XP. ¿Cuáles son las características distintivas de XP frente a otras metodologías ágiles? Explícalas. Puedes consultar el siguiente enlace:
 http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
 
+Todas las metodologías ágiles pueden ser complementarias entre sí, al menos de forma parcial:
+
+La metodología Scrum está pensada para aumentar la productividad, y XP para agregar valor y calidad al proyecto. Por esto muchas organizaciones que utilizan Scrum adoptan el Pair Programming, el TDD y la refactorización como prácticas que mejoran calidad, consiguiendo al mismo tiempo una productividad alta.
+
+Por otro lado, a menudo se utiliza el tablero de Kanban por los equipos de Scrum para realizar un seguimiento de las tareas que hay en cada sprint.
 
 
 
@@ -193,32 +193,29 @@ http://www.davidvalverde.com/blog/introduccion-a-la-programacion-extrema-xp/
 
 
 
+#Bibliografía
 
+https://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
 
+https://sistemasvd.wordpress.com/2008/07/05/fases-del-proceso-de-desarrollo-del-software/
 
+https://openclassrooms.com/en/courses/4309151-gestiona-tu-proyecto-de-desarrollo/4538221-en-que-consiste-el-modelo-en-cascada
 
+https://sites.google.com/site/proyectoadpmodelosdedesarrollo/home/modelo-en-cascada/modelo-en-cascada-ventajas-y-desventajas
 
+https://www.ctr.unican.es/asignaturas/Ingenieria_Software_4_F/Doc/M7_09_VerificacionValidacion-2011.pdf
 
+https://www.slideshare.net/myjuankiz1/desarrollo-de-prototipos-5662958
 
+http://modeloespiral.blogspot.com/
 
+https://es.wikipedia.org/wiki/Manifiesto_%C3%A1gil
 
+http://www.javiergarzas.com/2012/08/herramienta-kanban.html
+https://es.atlassian.com/agile/kanban
 
+http://www.javiergarzas.com/2014/03/quien-es-el-jefe-de-proyecto-en-un-proyecto-agil-scrum.html
 
+https://www.beagilemyfriend.com/diccionario-scrum/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://www.pmoinformatica.com/2012/11/los-5-valores-de-la-programacion.html
