@@ -1,1 +1,33 @@
-Preguntas.- 
+## Preguntas_ED_Herramientas_de_Desarrollo
+
+#### 1.- ¿Para que sirve un compilador? ¿Qué tipo de archivo obtenemos tras compilar? https://es.wikipedia.org/wiki/Compilador
+Un compilador es un programa informático que traduce un programa que ha sido escrito en un lenguaje de programación a un lenguaje común, usualmente lenguaje de máquina, aunque también puede ser traducido a un código intermedio (bytecode) o a texto
+Dependiendo del lenguaje de programación, obtenemos el archivo del codigo que hemos compilado. Codigo máquina o bytecode
+
+#### 2.- ¿Para que sirve un enlazador? ¿Qué tipo de archivo obtenemos tras enlazar? https://es.wikipedia.org/wiki/Enlazador
+Un enlazador es un programa que toma los objetos generados en los primeros pasos del proceso de compilación, la información de todos los recursos necesarios (biblioteca), quita aquellos recursos que no necesita, y enlaza el código objeto con su(s) biblioteca(s) con lo que finalmente produce un fichero ejecutable o una biblioteca.
+Obtenemos un programa ejecutable.
+
+#### 3.- ¿Para que sirve un interprete? ¿Obtenemos algún archivo tras interpretar? https://www.ecured.cu/Int%C3%A9rprete_(Inform%C3%A1tica)
+En ciencias de la computación, intérprete o interpretador es un programa informático capaz de analizar y ejecutar otros programas, escritos en un lenguaje de alto nivel. Los intérpretes se diferencian de los compiladores en que mientras estos traducen un programa desde su descripción en un lenguaje de programación al código de máquina del sistema, los primeros (los intérpretes) sólo realizan la traducción a medida que sea necesaria, típicamente, instrucción por instrucción, y normalmente no guardan el resultado de dicha traducción.
+Obtenemos el archivo "traducido".
+
+#### 4. Explica cada uno de los siguientes conceptos e indica la relación entre ellos.
+https://es.wikipedia.org/wiki/C%C3%B3digo_fuente
+https://es.wikipedia.org/wiki/C%C3%B3digo_objeto
+https://es.wikipedia.org/wiki/C%C3%B3digo_binario
+• Código fuente: El código fuente de un programa informático (o software) es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar dicho programa.
+El código fuente de un programa está escrito por un programador en algún lenguaje de programación, pero en este primer estado no es directamente ejecutable por la computadora, sino que debe ser traducido a otro lenguaje o código binario.
+
+• Código objeto: Consiste en lenguaje máquina o bytecode y se distribuye en varios archivos que corresponden a cada código fuente compilado.
+
+• Código binario: es el sistema numérico usado para la representación de textos, o procesadores de instrucciones de computadora, utilizando el sistema binario (sistema numérico de dos dígitos, o bit: el "0" /cerrado/ y el "1" /abierto/).
+
+#### 5. ¿Qué tipo de código es el bytecode generado por el compilador de Java?https://es.wikipedia.org/wiki/Bytecode_Java
+El bytecode Java es el tipo de instrucciones que la máquina virtual Java espera recibir, para posteriormente ser compiladas a lenguaje de máquina, mediante un compilador JIT a la hora de su ejecución.
+
+
+
+
+
+
