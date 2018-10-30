@@ -26,8 +26,151 @@ El código fuente de un programa está escrito por un programador en algún leng
 #### 5. ¿Qué tipo de código es el bytecode generado por el compilador de Java?https://es.wikipedia.org/wiki/Bytecode_Java
 El bytecode Java es el tipo de instrucciones que la máquina virtual Java espera recibir, para posteriormente ser compiladas a lenguaje de máquina, mediante un compilador JIT a la hora de su ejecución.
 
+#Herramientas de Desarrollo
+#### 1. Ejecuta el programa "Hola mundo" en los siguientes lenguajes:
+   bash
+   python
+   php
+   javascript (nodejs)
+   c
+   c++
+   java
+   ruby
+   go
+   rust
+   lisp
+   ensamblador (nasm)
+   
+#### 2. Para cada uno de los lenguajes anteriores, indica el proceso realizado para conseguir ejecutar el código: ¿compilación o interpretación?
+   bash (Interpretación)
+   python (Interpretación)
+   php (Compilación)
+   javascript (nodejs) (Interpretación)
+   c (Compilación)
+   c++(Compilación)
+   java (Compilación/"Interpretación")
+   ruby (Interprretación)
+   go (Compilación)
+   rust (Compilación)
+   lisp (Interpretación)
+   ensamblador (nasm) (Compilación)
+    
 
+#### 3. Para cada uno de los lenguajes anteriores, indica el nombre del compilador o interprete utilizado en GNU/Linux.
+   bash (Terminal)
+   python (python)
+   php (php)
+   javascript (node)
+   c (gcc)
+   c++ (gcc)
+   java (javac(Compila) / java(Interpreta y ejecuta))
+   ruby (ruby)
+   go (go)
+   rust (rustc)
+   lisp (clisp)
+   ensamblador (nasm(Ensambla) / ld(Enlaza y ejecuta))
 
+#### 4. Investiga y averigua que extensión tienen los archivos de código fuente de los siguientes lenguajes:
+   bash (.sh)
+   python (.py)
+   php (.php)
+   javascript (.js)
+   c (.c)
+   c++ (.cpp)
+   java (.java)
+   ruby (.rb)
+   go (.go)
+   rust (.rs)
+   lisp (.lisp)
+   ensamblador (.asm)
 
+#### 5. Scripts ejecutables para los lenguajes interpretados. Edita los scripts para los siguientes lenguajes:
+   **bash** (echo "Hola mundo")
+   python (print "Hola mundo")
+   
+   **php** (<?php 
+  echo "Hola mundo\n" 
+?>)
+   
+   
+   **javascript** (console.log('Hola mundo'))
+   
+   
+   **c** (#include <stdio.h>
+int main()
+{
+    printf("¡Hola, mundo!");
+    return 0;
+})
+   
+   
+   
+  ** c++** ( #include <iostream>
 
+using namespace std;
 
+int main()
+{
+   cout << "¡Hola, mundo!" << endl;
+   return 0;
+})
+   
+   
+   
+   
+   **java** (class Hola
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Hola Mundo");
+    }
+})
+   
+   
+   
+   **ruby** (puts "Hola Mundo")
+   
+   **go** (package main
+
+import "fmt"
+
+func main() {
+        fmt.Println("Hola mundo desde Go")
+})
+   
+   
+   
+   
+   **rust** (fn main() {
+    println!("¡Hola, mundo! Desde RUST ");
+})
+   
+   
+   **lisp** ((format t "¡Hola, mundo!"))
+   
+   
+   
+  
+   **ensamblador** (section .data
+ 
+ msg     db "¡Hola Mundo!", 0Ah
+ len     equ     $ - msg  
+ 
+ section .text
+ 
+ global _start
+ 
+ _start:
+        mov     eax, 04h
+        mov     ebx, 01h
+        mov     ecx, msg
+        mov     edx, len
+        int     80h
+        mov     eax, 01h
+        mov     ebx, 00h
+        int     80h 
+
+#### 6. ¿Qué extensión tienen los archivos de código objeto?
+La extensión de los archivos de codigo objeto es ".o"
+
+#### 7. Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes:ewrw
