@@ -173,4 +173,34 @@ func main() {
 #### 6. ¿Qué extensión tienen los archivos de código objeto?
 La extensión de los archivos de codigo objeto es ".o"
 
-#### 7. Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes:ewrw
+#### 7. Lenguaje C. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes.
+
+#### 8. Lenguaje C. Código en varios archivos. Obtener el código binario ejecutable a partir del código objeto de los 3 archivos anteriores.
+
+#### 9. Lenguaje C++. Código en varios archivos. Obtener el código objeto a partir del código fuente de los 3 archivos siguientes.
+
+#### 10. Lenguaje C++. Código en varios archivos. Obtener el código binario ejecutable a partir del código objeto de los 3 archivos anteriores.
+
+#### 11. Biblbiotecas. Define que se entiende por biblioteca o librería y los tipos que existen.
+
+Es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca. 
+
+Las bibliotecas están clasificadas por el tipo de trabajos que hacen, hay bibliotecas de entrada y salida, matemáticas, de manejo de memoria, de manejo de textos, existen muchísimas librerías disponibles y todas con una función especifica.
+
+
+
+#### 12. Bibliotecas. ¿Qué tipo es el más utilizado actualmente? ¿Por qué?
+Dinámicas con la funcionlidad opcional en forma de plugins. Porque las dinámicas son las que nos ofrecen un programa de menor tamaño, el programa se beneficia de las actualizaciones y, aunque no incluya el código de la biblioteca, podemos realizar un vínculo hacia la biblioteca dinámica.
+
+
+#### 13. Bibliotecas. Crea una biblioteca dinámica en C que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta correctamente.
+
+
+
+
+
+
+
+
+
+
