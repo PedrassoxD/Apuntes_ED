@@ -197,9 +197,22 @@ Dinámicas con la funcionlidad opcional en forma de plugins. Porque las dinámic
 
 #### 14. Bibliotecas. Crea una biblioteca dinámica en Java que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta correctamente.
 
+#### 15-16. Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas y dinamicas.
+Ventajas y desventajas:
 
+ Un programa compilado con librerías estáticas es más grande, ya que se hace copia de todo lo que necesita.
+ 
+Un programa compilado con librerías estáticas se puede llevar a otro ordenador sin necesidad de llevarse las librerías.
+    
+Un programa compilado con librerías estáticas es, en principio, más rápido en ejecución. Cuando llama a una función de la librería, la tiene en su código y no tiene que ir a leer el fichero de la librería dinámica para encontrar la función y ejecutarla.
+    
+Si cambiamos una librería estática, a los ejecutables no les afecta. Si cambiamos una dinámica, los ejecutables se ven afectados. Esto es una ventaja si hemos cambiado la librería para corregir un error (se corrige automáticamente en todos los ejecutables), pero es un inconveniente si tocar eso nos hace cambiar los ejecutables (por ejemplo, hemos añadido un parámetro más a una función de la librería, los ejecutables ya hechos dejan de funcionar).
 
+Para programas no muy grandes y por simplicidad, se suele usar librerías estáticas. Las dinámicas están bien para programas enormes o para librerías del sistema, que como están en todos los ordenadores con linux, no es necesario andar llevándoselas de un lado a otro.
 
+#### 17. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo ejecutable para código fuente en C con make. Haz uso de un buildfile.
+
+#### 18. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Ant. Haz uso de un buildfile.
 
 
 
