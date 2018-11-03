@@ -197,6 +197,8 @@ Dinámicas con la funcionlidad opcional en forma de plugins. Porque las dinámic
 
 #### 14. Bibliotecas. Crea una biblioteca dinámica en Java que proporcione las funciones para sumar, restar, multiplicar y dividir 2 números enteros. Crea un programa que haga uso de ella y comprueba que se ejecuta correctamente.
 
+En este ejercicio, tras realizar todos los comandos nombrados en el enlace que nos has proporcionado me da error al final.
+
 #### 15-16. Bibliotecas. Busca información y explica las ventajas y desventajas de usar bibliotecas estáticas y dinamicas.
 Ventajas y desventajas:
 
@@ -213,6 +215,20 @@ Para programas no muy grandes y por simplicidad, se suele usar librerías estát
 #### 17. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo ejecutable para código fuente en C con make. Haz uso de un buildfile.
 
 #### 18. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Ant. Haz uso de un buildfile.
+
+#### 19. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Maven. Haz uso de un buildfile.
+
+En este ejercicio, tras realizar todos los comandos nombrados en el enlace que nos has proporcionado me da error al final tras compilar.
+
+#### 20. Build. Automatiza el proceso de compilación de ejecutable y biblioteca, su enlazado y la generación del archivo .jar para código fuente en Java con Gradle. Haz uso de un buildfile.
+
+En este ejercicio, tras realizar todos los comandos nombrados en el enlace que nos has proporcionado me da error al final tras compilar.
+
+#### 21. CMake. Automatiza el proceso de compilación de ejecutable y bibliotecas, su enlazado y la generación del archivo ejecutable para código fuente en C++. Crea un buildfile con CMake.
+
+#Nota
+Los ejercicios que no tienen una respuesta, van adjuntados dentro de la carpeta "Archivos_Imagenes_Ejercicios" subida a este mismo repositorio.
+
 
 
 
